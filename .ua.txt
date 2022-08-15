@@ -1,0 +1,23 @@
+Opera/9.27	
+Opera/9.80 (Windows NT 6.1 Presto/2.12.388 Version/41.0.1	
+Opera/9.80 (Windows NT 6.2 Presto/2.12.388 Version/41.0.1	
+HTC_Touch_Diamond2_T5353 Opera/9.7 (Windows NT 5.1; U; ru)	
+opera/8.01+(j2me/midp;+opera+mini/2.0.4062;+en;+U;+ssr	
+OperaMini(_NIKITA_;Opera Mini/4.4.32206;en-GB)	
+Opera/10.0(Commodore;N;DR-DOS2.2.13;8088;rv1.8.4)Presto/20070518Spaceshark/0.7	
+HTC_Touch_HD_T8282 Opera/9.50 (Windows NT 5.1; U; pt)	
+Opera/51 Andriod	
+HTC_HD2_T8585 Opera/9.7 (Windows NT 5.1; U; ru)	
+OperaMini(MAUI_MRE;Opera Mini/4.4.33576;en)	
+Opera/9.00 (Wii; U; ; 1038-58; Wii Shop Channel/1.0; en)	
+Opera/11.6	
+Opera/11.5	
+Opera/9.80 (Window NT 6.2; Win64; x64) Presto/2.12.388 Version/12.16	
+Opera/9.15	
+Opera/5.02 (Macintosh; U; id)	
+HTC_HD2_T8585 Opera/9.7 (Windows NT 5.1; U; en)	
+HTC_HD2_T8585 Opera/9.70 (Windows NT 5.1; U; de)	
+Opera/9.80 (Linux mips ; U; HbbTV/1.1.1 Presto/2.6.33 Version/10.70	
+OperaMini(Fucus/Unknown;Opera Mini/4.4.33576;en)	
+Opera Mini 4	
+Opera/9.80 (; WOW64; U; ru) Presto/2.10.229 Version/11.62
