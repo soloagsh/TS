@@ -1,0 +1,2 @@
+import TS
+Ts.Main()
